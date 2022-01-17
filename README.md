@@ -9,11 +9,11 @@
   </thead>
   <tbody>
 <tr>
-  <td colspan="2">Linux Directories</td>
+  <th colspan="2">Linux Directories</th>
 </tr> 
 <tr>
   <td>pwd</td>
-  <td>The pwd command stands for (print working directory). It displays the current working location or directory of the user.</td>
+  <td>pwd - print working directory. It displays the current working location or directory of the user.</td>
 </tr> 
 <tr>    
   <td>ls</td>
@@ -37,15 +37,37 @@
 </tr>
     
 <tr>
-  <td colspan="2">Linux Files</td>
+  <th colspan="2">Linux Files</th>
 </tr>
 <tr>
   <td>file file_name</td>
   <td>Determines file type.</td>
 </tr>
+<tr>
+  <td>touch filename</td>
+  <td>Used to create a file.</td>
+</tr>
     
 <tr>
-  <td colspan="2">Others</td>
+  <td>rm file_name</td>
+  <td>To remove a file.</td>
+</tr>
+<tr>
+  <td>cp existing_file_name new_file_name</td>
+  <td>To copy a file</td>
+</tr>
+<tr>
+  <td>mv existing_file_name new_file_name</td>
+  <td>To rename or to move a file.</td>
+</tr>
+<tr>
+  <td>rename 's/old-name/new-name/' files</td>
+  <td>To rename file. </td>
+</tr>    
+ 
+    
+<tr>
+  <th colspan="2">Others</th>
 </tr>
 <tr>
   <td>clear</td>
