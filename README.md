@@ -65,6 +65,32 @@
   <td>To rename file. </td>
 </tr>    
  
+<tr>
+  <th colspan="2">Linux File Contents Command</th>
+</tr>
+<tr>
+  <td>head file_name</td>
+  <td>It displays the beginning of a file.</td>
+</tr>    
+<tr>
+  <td>tail file_name</td>
+  <td>It displays the last last part of a file.</td>
+</tr>
+<tr>
+  <td>cat file_name</td>
+  <td>This command is versatile and multi worker.</td>
+</tr>        
+<tr>
+  <td>more file_name</td>
+  <td>Command line diaplays contents in pager form that is either in more format.</td>
+</tr>         
+<tr>
+  <td>less file_name</td>
+  <td>Command line diaplays contents in pager form that is either in less format.</td>
+</tr>   
+    
+    
+    
     
 <tr>
   <th colspan="2">Others</th>
