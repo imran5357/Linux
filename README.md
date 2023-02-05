@@ -99,8 +99,400 @@
   <td>clear</td>
   <td>Clears the terminal</td>
 </tr>
-   
-    
-    
+
+<tr>
+  <th colspan="2">Common Environment Variables</th>
+</tr>
+
+<tr>
+  <td colspan="2">
+      <ul>
+        <li>PATH</li>
+        <li>USER</li>
+        <li>HOME</li>
+        <li>EDITOR</li>
+        <li>UID</li>
+        <li>TERM</li>
+        <li>SHELL</li>
+        <li>ENV</li>
+      </ul>
+  </td>
+</tr>   
+<tr>
+  <td></td>
+  <td></td>
+</tr>    
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>   
+<tr>
+  <td></td>
+  <td></td>
+</tr>    
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>   
+<tr>
+  <td></td>
+  <td></td>
+</tr>    
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>   
+<tr>
+  <td></td>
+  <td></td>
+</tr>    
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>   
+<tr>
+  <td></td>
+  <td></td>
+</tr>    
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>   
+<tr>
+  <td></td>
+  <td></td>
+</tr>    
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>   
+<tr>
+  <td></td>
+  <td></td>
+</tr>    
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>   
+<tr>
+  <td></td>
+  <td></td>
+</tr>    
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>   
+<tr>
+  <td></td>
+  <td></td>
+</tr>    
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>   
+<tr>
+  <td></td>
+  <td></td>
+</tr>    
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>   
+<tr>
+  <td></td>
+  <td></td>
+</tr>    
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>   
+<tr>
+  <td></td>
+  <td></td>
+</tr>    
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>   
+<tr>
+  <td></td>
+  <td></td>
+</tr>    
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>   
+<tr>
+  <td></td>
+  <td></td>
+</tr>    
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>   
+<tr>
+  <td></td>
+  <td></td>
+</tr>    
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>   
+<tr>
+  <td></td>
+  <td></td>
+</tr>    
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>   
+<tr>
+  <td></td>
+  <td></td>
+</tr>    
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>   
+<tr>
+  <td></td>
+  <td></td>
+</tr>    
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>   
+<tr>
+  <td></td>
+  <td></td>
+</tr>    
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>   
+<tr>
+  <td></td>
+  <td></td>
+</tr>    
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>   
+<tr>
+  <td></td>
+  <td></td>
+</tr>    
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>   
+<tr>
+  <td></td>
+  <td></td>
+</tr>    
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>   
+<tr>
+  <td></td>
+  <td></td>
+</tr>    
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>   
+<tr>
+  <td></td>
+  <td></td>
+</tr>    
+<tr>
+  <td></td>
+  <td></td>
+</tr>
   </tbody>
 </table>
