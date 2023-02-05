@@ -119,8 +119,30 @@
   </td>
 </tr>   
 <tr>
-  <td></td>
-  <td></td>
+  <td colspan="2">
+<pre>
+<u>How to set Environment Variable:</u>
+
+<b>Syntax:</b> export NAME=VALUE
+<b>Example:</b> export new_variable=10
+
+<b>Syntax:</b> echo new_variable 
+<b>Example:</b> echo $new_variable 
+
+
+<u>To set Java Environment Variable, execute the command as follows:</u>
+<b>Example:</b> export PATH=$PATH:/home/jdk1.8/bin/ 
+
+<u>The env command</u>
+<b>Example:</b> env 
+
+<u>Removing an Environment Variable</u>
+<b>Syntax:</b> unset variable name
+<b>Example:</b> unset new_variable  
+
+
+</pre>
+  </td>
 </tr>    
 <tr>
   <td></td>
